@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CRCDemo
+public class Program3
 {
   static String msg;
   static String genpoly="10001000000100001";
